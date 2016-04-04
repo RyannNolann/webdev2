@@ -1,0 +1,280 @@
+@charset "utf-8";
+
+#mydiv {
+	width:500px;
+}
+
+body {
+	background-color:#CCC;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+header {
+	padding:0px;
+	margin:0px;
+}
+
+.header {
+	width:100%;
+	display:inline-block;
+	height:125px;
+	background-color: #3ccfff;
+	padding:0px;
+	margin:0px;
+	float:left;
+	position:absolute;
+}
+
+.logo {
+	position:absolute;
+	left:80px;
+	top:7.5px;
+	
+}
+
+a {
+	text-decoration:none;
+	color:#FFF;
+}
+
+nav {
+	text-decoration:none;
+	font-family:Geosanslight;
+	font-size:35px;
+	position:fixed;
+	top:82.5px;
+	left:900px;
+	color:#FFF;
+}
+
+nav a:hover {
+	color: #FF0;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.iconone {
+	position:absolute;
+	top:200px;
+	left:90px;
+}
+
+.icontwo {
+	position:absolute;
+	top:200px;
+	left:400px;
+}
+
+.iconthree {
+	position:absolute;
+	top:200px;
+	left:708px;
+}
+
+.iconfour {
+	position:absolute;
+	top:200px;
+	left:1016px;
+}
+
+.abottom {
+	position:absolute;
+	top:420px;
+	left:80px;
+}
+
+.pbottom {
+	position:absolute;
+	top:420px;
+	left:388px;
+}
+
+.mbottom {
+	position:absolute;
+	top:420px;
+	left:698px;
+}
+
+.dbottom {
+	position:absolute;
+	top:420px;
+	left:1006px;
+}
+
+.footer {
+	width:100%;
+	height:50px;
+	background-color: #3ccfff;
+	position:fixed;
+	top:593px;
+}
+
+small {
+	color:#FFF;
+	position:fixed;
+	left:20px;
+}
+
+.links {
+	position:fixed;
+	left:1150px;
+	bottom:5px;
+}
+
+.abouttitle {
+	font-family: Geosanslight;
+	color:#999;
+	position:fixed;
+	top:100px;
+	left:480px;
+	font-size:72px;
+}
+
+.profilepic {
+	position:absolute;
+	left:0px;
+	top:150px;
+}
+
+.greyedout {
+	font-family:Geosanslight;
+	color: #FFF;
+	position:fixed;
+	top:210px;
+	left:480px;
+	font-size:36px;
+}
+	
+.aboutmoi {
+	font-family:Geosanslight;
+	color: #FFF;
+	position:fixed;
+	top:270px;
+	left:480px;
+	font-size:26px;
+}
+
+span {
+	color:#999;
+}
+		
+#collumnone {
+	padding:10px;
+	position:fixed;
+	left:600px;
+	top:150px;
+}
+
+.collumntwo {
+	position:fixed;
+	left:50px;
+	top:160px;
+}
+
+.collumnthree {
+	position:fixed;
+	left:325px;
+	top:160px;
+}
+
+.collumnfour {
+	position:fixed;
+	left:50px;
+	top:395px;
+}
+
+.collumnfive {
+	position:fixed;
+	left:325px;
+	top:395px;
+}	
+	
+.phototext {
+	position:fixed;
+	top:268px;
+	left:75px;
+	color: #999;
+	font-family: Geosanslight;
+	font-size:56px;
+}
+		
+.vidone {
+	position:absolute;
+	left:50px;
+	top:240px;
+}
+
+
+.vidtwo {
+	position:absolute;
+	left:500px;
+	top:240px;
+}
+
+.vidthree {
+	position:absolute;
+	left:950px;
+	top:240px;
+}
+		
+.assignmentone {
+	position:absolute;
+	left:50px;
+	top:450px;
+}
+
+.assignmenttwo {
+	position:absolute;
+	left:950px;
+	top:450px;
+}
+
+.solo {
+	position:absolute;
+	left:500px;
+	top:450px;
+}
+	
+.videoheader {
+	position:absolute;
+	left:120px;
+	top:150px;
+}
+	
+#gradone {
+    height: 200px;
+    background: linear-gradient(#CCC , #3ccfff); /* Standard syntax (must be last) */
+    height:650px;
+}	
+
+.workone {
+	position:fixed;
+	height:400px;
+	left:200px;
+	top:200px;
+}
+
+.headingbox {
+	width:900px;
+	height:50px;
+	background-color: #3ccfff;
+	position:absolute;
+	left: 200px;
+	top: 138px;
+	z-index:0;
+}
+
+.boxtext {
+	color:#FFF;
+	font-family: Geosanslight;
+	font-size: 36px;
+	position: absolute;
+	left:500px;
+	top:105px;
+	z-index:1;
+}
